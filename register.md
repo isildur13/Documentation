@@ -6,7 +6,7 @@
 
 	* Vagrant issues with 2.0.2 unable to install disksize-manage plugin.
 		* Don't blindly install packages using apt. Instead look at there website for new releases. 
-
+>	* Vagrant box size could not be reduced to 5GB from default 10 GB need to inspect that..
 
 
 ## 7 April 2020:
