@@ -2,6 +2,10 @@
 
 
 
+## 8 April 2020
+
+	* Vagrant issues with 2.0.2 unable to install disksize-manage plugin.
+		* Don't blindly install packages using apt. Instead look at there website for new releases. 
 
 
 
@@ -9,7 +13,9 @@
 	
 	* vm management using vboxmanage for virtualbox vms. 
 	* Vagrant issues relating to global-status vms.
-
+	* Jenkins agent setup simple method of ssh discovered.
+	* Created script for install go systematically.
+	* Ensured that Go env stays stable and builds have no issues.
 
 ## 6 April 2020:
 	
