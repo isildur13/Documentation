@@ -15,3 +15,7 @@
 	* vagrant plugin install vagrant-disksize
 		* https://github.com/sprotheroe/vagrant-disksize
 
+
+## Issues to be solved..
+
+	* Vagrant box size was not resized to 5GB from default 10 GB (Need to check on this one)
