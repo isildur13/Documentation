@@ -1,6 +1,10 @@
 # Daily Learnings.. Register.
 
 
+## 9 April 2020
+	* Issues with go provisioner.
+		* Discovered that sleep command should be added after linking and then check for the availability of the binary.
+	
 
 ## 8 April 2020
 
