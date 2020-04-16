@@ -5,7 +5,10 @@
 	* Starting with C.
 	* Starting with Basics of Linux Kernel.
 	* Starting with Makefile.
-
+	
+> Shortcuts discovered:-
+		* Increasing font size within a terminal: *** shift + ctrl ++ ***
+		* Reducing font size within a terminal: *** ctrl ++ ***
 ## 10 April - 15 April Break
 
 
