@@ -1,6 +1,14 @@
 # Daily Learnings.. Register.
 
 
+## 16 April 2020
+	* Starting with C.
+	* Starting with Basics of Linux Kernel.
+	* Starting with Makefile.
+
+## 10 April - 15 April Break
+
+
 ## 9 April 2020
 	* Issues with go provisioner.
 		* Discovered that sleep command should be added after linking and then check for the availability of the binary.
