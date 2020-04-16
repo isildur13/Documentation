@@ -9,6 +9,7 @@
 	*Shortcuts discovered:-
 		* Increasing font size within a terminal: * shift + ctrl ++ *
 		* Reducing font size within a terminal: * ctrl -- *
+	*Became isildur13
 
 ## 10 April - 15 April Break
 
