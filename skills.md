@@ -1,4 +1,4 @@
-#-----------------------CORE-----------------------
+## CORE
 *C
 *CPP
 *JAVA
@@ -10,26 +10,23 @@
 *HTML & CSS
 *JAVASCRIPT
 *API DEVELOPMENT
---------------------------------------------------
 
----------------------SCRIPTING--------------------
+## SCRIPTING
 *BASH
 *PERL
---------------------------------------------------
 
---------------------FRAMEWORKS--------------------
+## FRAMEWORKS
 *DJANGO
 *FLASK
 *ANGULAR
 *NODE
---------------------------------------------------
 
----------------------DEPLOYMENT-------------------
+## DEPLOYMENT
 *DOCKER
 *KUBERNETES
---------------------------------------------------
 
-------------------MACHINE LEARNING----------------
+## MACHINE LEARNING
+
 *NLP SENTIMENT ANALYSIS
 *SPEECH ANALYSIS
 *OBJECT DETECTION
@@ -40,5 +37,4 @@
 *MEME
 *DEEP FAKES
 *ALT RESEARCH...
--------------------------------------------------
 
