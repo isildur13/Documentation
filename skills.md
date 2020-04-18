@@ -1,44 +1,44 @@
------------------------CORE-----------------------
-C
-CPP
-JAVA
-Go
-Python
-MYSQL
-POSTGRES
-MONGODB
-HTML & CSS
-JAVASCRIPT
-API DEVELOPMENT
+#-----------------------CORE-----------------------
+*C
+*CPP
+*JAVA
+*Go
+*Python
+*MYSQL
+*POSTGRES
+*MONGODB
+*HTML & CSS
+*JAVASCRIPT
+*API DEVELOPMENT
 --------------------------------------------------
 
 ---------------------SCRIPTING--------------------
-BASH
-PERL
+*BASH
+*PERL
 --------------------------------------------------
 
 --------------------FRAMEWORKS--------------------
-DJANGO
-FLASK
-ANGULAR
-NODE
+*DJANGO
+*FLASK
+*ANGULAR
+*NODE
 --------------------------------------------------
 
 ---------------------DEPLOYMENT-------------------
-DOCKER
-KUBERNETES
+*DOCKER
+*KUBERNETES
 --------------------------------------------------
 
 ------------------MACHINE LEARNING----------------
-NLP SENTIMENT ANALYSIS
-SPEECH ANALYSIS
-OBJECT DETECTION
-FACE DETECTION
-DRIVERLESS CARS
-DRONES
-ANIMALS
-MEME
-DEEP FAKES
-ALT RESEARCH...
+*NLP SENTIMENT ANALYSIS
+*SPEECH ANALYSIS
+*OBJECT DETECTION
+*FACE DETECTION
+*DRIVERLESS CARS
+*DRONES
+*ANIMALS
+*MEME
+*DEEP FAKES
+*ALT RESEARCH...
 -------------------------------------------------
 
