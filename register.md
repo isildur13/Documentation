@@ -1,5 +1,13 @@
 # Daily Learnings.. Register.
 
+## 18 April 2020
+	*
+
+## 17 April 2020
+	* Basics of Makefile.
+	* Created a simple tipper project in C.
+	* Scanf issues resolved with https://stackoverflow.com/questions/26583717/how-to-scanf-only-integer
+		* fgets() and strtol()
 
 ## 16 April 2020
 	* Starting with C.
@@ -11,14 +19,15 @@
 		* Reducing font size within a terminal: * ctrl -- *
 	*Became isildur13
 
+
 ## 10 April - 15 April Break
 
 
 ## 9 April 2020
 	* Issues with go provisioner.
 		* Discovered that sleep command should be added after linking and then check for the availability of the binary.
-	
 
+	
 ## 8 April 2020
 
 	* Vagrant issues with 2.0.2 unable to install disksize-manage plugin.
