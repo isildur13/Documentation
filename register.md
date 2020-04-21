@@ -1,7 +1,18 @@
 # Daily Learnings.. Register.
 
+
+
+## 21 April 2020
+	* Connected MYSQL and C successfully probed multiple issues and noted them down.
+	
+## 20 April 2020
+	* MYSQL Partial video by Giraffe acedemy.	
+
+## 19 April 2020
+	* C++ Complete video by Giraffe acedemy.	
+
 ## 18 April 2020
-	*
+	* C programming Complete video of Giraffe academy.
 
 ## 17 April 2020
 	* Basics of Makefile.
