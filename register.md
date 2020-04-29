@@ -2,6 +2,16 @@
 
 
 
+## 29 April 2020
+	* Git branch name update and deletion
+		Renaming an existing branch consists of following process:- 
+			* git branch -m <NEW NAME>
+			* git push origin -u <NEW NAME>
+			* git push origin --delete <OLD NAME>
+
+			1) Create a REPLICATE OF EXISTING BRANCH PUSH IT TO REPO.
+			2) DELETE THE OLD BRANCH. 
+
 ## 21 April 2020
 	* Connected MYSQL and C successfully probed multiple issues and noted them down.
 	
