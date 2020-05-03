@@ -8,7 +8,8 @@
 		2) ./configure
 		3) make
 		4) make install
-		
+	* If deb is available use it
+	* For partial installation use "apt --fix-broken install"
 		
 # 02 May 2020
 	* Created Env setup for the startup (React)
