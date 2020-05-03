@@ -1,6 +1,10 @@
 # Daily Learnings.. Register.
 
-
+# 03 May 2020
+	* Installing Vagrant and Ruby from source.
+	* autoconf and make funda
+# 02 May 2020
+	* Created Env setup for the startup (React)
 
 ## 29 April 2020
 	* Git branch name update and deletion
