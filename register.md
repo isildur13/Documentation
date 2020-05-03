@@ -1,5 +1,6 @@
 # Daily Learnings.. Register.
 
+
 # 03 May 2020
 	* Installing Vagrant and Ruby from source.
 	* autoconf and make funda.$ ./configure
@@ -10,7 +11,11 @@
 		4) make install
 	* If deb is available use it
 	* For partial installation use "apt --fix-broken install"
-		
+	* Setup ec2 production environment
+	* used jenkins container for ci
+	* installed ansible from source
+	* setup ansbile and ec2 successfully.
+	
 # 02 May 2020
 	* Created Env setup for the startup (React)
 
