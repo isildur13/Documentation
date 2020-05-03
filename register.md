@@ -2,7 +2,14 @@
 
 # 03 May 2020
 	* Installing Vagrant and Ruby from source.
-	* autoconf and make funda
+	* autoconf and make funda.$ ./configure
+	* Building from the source:-
+		1) autoconf
+		2) ./configure
+		3) make
+		4) make install
+		
+		
 # 02 May 2020
 	* Created Env setup for the startup (React)
 
