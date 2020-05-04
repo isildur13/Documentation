@@ -1,6 +1,10 @@
 # Daily Learnings.. Register.
 
-
+# 04 May 2020
+	* CICD done.
+	* Had to use nginx for serving react.
+	* Jenkins agent setup had few issues so it took some time to solve it.
+	
 # 03 May 2020
 	* Installing Vagrant and Ruby from source.
 	* autoconf and make funda.$ ./configure
