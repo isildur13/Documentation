@@ -1,9 +1,15 @@
 # Daily Learnings.. Register.
 
+
+# 05 May 2020 
+	* Common npm start issues encountered max limit not set in linux. referer below article
+		*https://github.com/gatsbyjs/gatsby/issues/11406
+	
 # 04 May 2020
 	* CICD done.
 	* Had to use nginx for serving react.
 	* Jenkins agent setup had few issues so it took some time to solve it.
+	* CD is ready.
 	
 # 03 May 2020
 	* Installing Vagrant and Ruby from source.
