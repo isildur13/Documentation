@@ -1,5 +1,10 @@
 # Daily Learnings.. Register.
 
+# 06 May 2020
+	* Boxes were vanished.. 
+		* Turned out that the machine crash was the issue.
+	* Register the vboxes using following command "find /path/to/vms -name "*.vbox" -exec VBoxManage registervm {} \;
+"
 
 # 05 May 2020 
 	* Common npm start issues encountered max limit not set in linux. referer below article
