@@ -1,5 +1,14 @@
 # Daily Learnings.. Register.
 
+# 08 May 2020 
+	* Setup Bare minimum UI along with Searchbar.
+	* Setup Flask API service using prebuilt python util
+	* Deployed the Flask API on AWS EC2 and service setup.
+	* Communicating using API using functional coponents done.
+		* While adding proxy in package.json make sure you restart the dev mode once again to reflect changes.
+		* dom restart won't reflect.
+	* Pipeline for CD of Flask API done.
+	
 # 07 May 2020
 	* Created UI using Material-UI and React.
 		* Grid 
