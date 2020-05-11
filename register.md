@@ -6,6 +6,11 @@
 	* REST API used via Axios.
 		* Response for Mapping in JS requires the data to be in list [{"Key":"Value","Key":"Value"},{"Key":"Value","Key":"Value"}]
 		* Faced CORS error mitigated it using Proxy in package.json file.
+		
+	* Works in development mode.
+		Shows nothing in production build.
+		->>> Issue exists for both isildur13/reactflask and isildur13/react/material-ui-react 
+			>> I guess it is a rendering issue..
 
 # 08 May 2020 
 	* Setup Bare minimum UI along with Searchbar.
