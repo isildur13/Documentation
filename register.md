@@ -1,5 +1,12 @@
 # Daily Learnings.. Register.
 
+# 11 May 2020 
+	* Created Dynamic Content rendering using a REST API and the React Frontend app.
+		* Made use of Class components along with relevant Mapping wrt to the Component and API response.
+	* REST API used via Axios.
+		* Response for Mapping in JS requires the data to be in list [{"Key":"Value","Key":"Value"},{"Key":"Value","Key":"Value"}]
+		* Faced CORS error mitigated it using Proxy in package.json file.
+
 # 08 May 2020 
 	* Setup Bare minimum UI along with Searchbar.
 	* Setup Flask API service using prebuilt python util
