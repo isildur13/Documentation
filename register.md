@@ -1,5 +1,13 @@
 # Daily Learnings.. Register.
 
+
+# 12 May 2020
+	* Resolved the build Issue:- 
+		* CORS issue was resolved by removing the proxy setup from "package.json".
+			* By adding prefix url of heroku CORS. (Had Speed issues).
+			* Made changes to the API server using flask CORS lib. (Fixed it permanently).
+	* HTML basics
+		
 # 11 May 2020 
 	* Created Dynamic Content rendering using a REST API and the React Frontend app.
 		* Made use of Class components along with relevant Mapping wrt to the Component and API response.
