@@ -1,5 +1,8 @@
 # Daily Learnings.. Register.
 
+# 13 May 2020
+	* Dropdowns created
+	* Started working on MAPS. leafs API 
 
 # 12 May 2020
 	* Resolved the build Issue:- 
