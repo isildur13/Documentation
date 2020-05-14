@@ -1,5 +1,9 @@
 # Daily Learnings.. Register.
 
+# 14 May 2020
+	* Resolved Flask API shutdown and speed issue.
+		* Used uWSGI python library and redeployed the API using init script and made relevant changes.
+	
 # 13 May 2020
 	* Dropdowns created
 	* Started working on MAPS. leafs API 
