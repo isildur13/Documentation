@@ -1,5 +1,13 @@
 # Daily Learnings.. Register.
 
+# 16 May 2020 
+        * Made db changes
+        * Added API functions for randomizing @ each request.
+      
+# 15 May 2020
+        * Created Landing page and setup on server.
+        * Configured nginx and created shorten url.
+
 # 14 May 2020
 	* Resolved Flask API shutdown and speed issue.
 		* Used uWSGI python library and redeployed the API using init script and made relevant changes.
